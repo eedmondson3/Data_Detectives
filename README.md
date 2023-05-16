@@ -9,3 +9,6 @@ https://sparkbyexamples.com/pandas/pandas-create-new-dataframe-by-selecting-spec
 
 Plotting multiple bar charts:</br>
 https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/#
+
+Slideshow template:</br>
+https://slidesgo.com/theme/world-ev-electric-vehicles-day
