@@ -44,11 +44,13 @@ Electric Vehicle Ownership in the state of Washington</br>
 </ul>
 <br>
 <b>Resources Used:</b></br>
-Removing brackets in dataframe data:</br>
-https://stackoverflow.com/questions/38147447/how-to-remove-square-bracket-from-pandas-dataframe</br>
-Creating new columns by index:</br>
-https://sparkbyexamples.com/pandas/pandas-create-new-dataframe-by-selecting-specific-columns/</br>
-Plotting multiple bar charts:</br>
-https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/#</br>
-Slideshow template:</br>
-https://slidesgo.com/theme/world-ev-electric-vehicles-day</br>
+<ul>
+  <li>Removing brackets in dataframe data:</br>
+  https://stackoverflow.com/questions/38147447/how-to-remove-square-bracket-from-pandas-dataframe</li>
+  <li>Creating new columns by index:</br>
+  https://sparkbyexamples.com/pandas/pandas-create-new-dataframe-by-selecting-specific-columns/</li>
+  <li>Plotting multiple bar charts:</br>
+  https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/#</li>
+  <li>Slideshow template:</br>
+  https://slidesgo.com/theme/world-ev-electric-vehicles-day</li>
+</ul>
