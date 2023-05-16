@@ -1,6 +1,7 @@
 # Data_Detectives
 <b>Data Analysis Project One</b></br>
 By: Logan Barnes, Edwin Edmondson, Sabrina Recendez and Yeu-Jen Lee</br>
+<i>Submitted May 18th, 2023</i></br>
 <br>
 <b>Topic:</b></br>
 Electric Vehicle Ownership in the state of Washington</br>
